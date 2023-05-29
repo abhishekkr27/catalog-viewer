@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Container, Row, Col, Image, Button, Spinner } from 'react-bootstrap';
-import { BsChevronLeft, BsChevronRight } from "react-icons/bs";
+import { Container, Row, Col, Image, Spinner } from 'react-bootstrap';
 import PlayCircleFilledWhiteIcon from '@mui/icons-material/PlayCircleFilledWhite';
 import PauseCircleIcon from '@mui/icons-material/PauseCircle';
 import ArrowLeftIcon from '@mui/icons-material/ArrowLeft';
