@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  color: red;
+  text-decoration: underline;
+}
+
+.dummy-text {
+  color: #B4B3B3;
+  width: 590px;
+  height: 540px;
+  letter-spacing: 0px;
+  opacity: 1;
+  text-align: left;
+  top: 170px;
+  left: 1266px;
+  font: normal normal normal 16px/18px Ubuntu;
+}
+
+.dummy-title {
+  /* Layout Properties */
+  top: 64px;
+  left: 1266px;
+  width: 258px;
+  margin-top: 64px;
+  height: 113px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal normal 50px/57px Ubuntu;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+  border-color: 1px solid grey;
+}
+
+.rectangle-3 {
+  top: 74px;
+  left: 1234px;
+  width: 620px;
+  height: 503px;
+  opacity: 1;
+  border-radius: 1px solid grey;
+}
+
+img-all {
+  margin-top: 64px;
+  left: 60px;
+  width: 1126px;
+  height: 768px;
+  /* UI Properties */
+
+  border-radius: 50px;
+  opacity: 1;
+}
+
+.scroll-image {
+  border-radius: 20px;
+  /* opacity: 1; */
+  width: 205;
+  height: 171px;
+}
+
+.prev {
+  color: #000000;
+  width: 25px;
+  height: 40px;
+  opacity: 1;
+}
+
+.next {
+  color: #000000;
+  width: 25px;
+  height: 40px;
+  opacity: 1;
+}
+
+
+/* Extra CSS */
+
+.row>* {
+  max-width: 50% !important;
+}
